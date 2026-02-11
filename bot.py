@@ -5,9 +5,9 @@ import random
 import string
 import re
 
-API_ID = 1234567
-API_HASH = "your_api_hash"
-BOT_TOKEN = "your_bot_token"
+API_ID = 21552265
+API_HASH = "1c971ae7e62cc416ca977e040e700d09"
+BOT_TOKEN = "8030718150:AAEwsutSw7bJL336hqy4pLCXKxi91B0zBi8"
 
 app = Client("temp_mail_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
